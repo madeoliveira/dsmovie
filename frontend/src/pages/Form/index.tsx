@@ -1,6 +1,5 @@
 import './styles.css';
 function Form(){
-
     const movie = {
         id: 1,
         image: "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg",
@@ -36,6 +35,5 @@ function Form(){
     </div >
 </div >
     );
-
 }
 export default Form;

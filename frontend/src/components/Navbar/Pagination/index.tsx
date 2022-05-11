@@ -13,7 +13,6 @@ function Pagination() {
                 </button>
             </div>
         </div>
-
     );
 }
 export default Pagination;
