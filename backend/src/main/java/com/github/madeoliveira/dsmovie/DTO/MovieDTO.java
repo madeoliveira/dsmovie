@@ -1,4 +1,4 @@
-package com.github.madeoliveira.dsmovie;
+package com.github.madeoliveira.dsmovie.DTO;
 
 import com.github.madeoliveira.dsmovie.entities.Movie;
 
